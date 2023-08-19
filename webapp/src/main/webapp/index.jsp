@@ -2,7 +2,7 @@
   <div class="container">
     <u><h1>This is my First Automated DevOps Project</h1></u>
     <h2>New user Register for DevOps World</h2>
-    <p>Please fill in this form to create an account.</p>
+    <p>Please fill in this form to create a new account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
